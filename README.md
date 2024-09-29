@@ -7,6 +7,7 @@ This repository contains three basic javaScript programs:
   1. Student Grade Generator (Toy Problem)
   2. Speed Detector (Toy Problem)
   3. Net Salary Calculator (Toy Problem)
+
 Each of these programs demonstartes how to build interactive programs in JavaScript by collecting user input
 and using logic processing to calculate and display results.
 
