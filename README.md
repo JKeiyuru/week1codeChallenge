@@ -1,8 +1,8 @@
-WEEK 1 CODE CHALLENGE
-DATE: 29/09/2024
-BY: JOSEPH KEIYURU
+# WEEK 1 CODE CHALLENGE
+# DATE: 29/09/2024
+# BY: JOSEPH KEIYURU
 
-DESCRIPTION:
+## DESCRIPTION:
 This repository contains three basic javaScript programs:
   1. Student Grade Generator (Toy Problem)
   2. Speed Detector (Toy Problem)
@@ -11,7 +11,7 @@ This repository contains three basic javaScript programs:
 Each of these programs demonstartes how to build interactive programs in JavaScript by collecting user input
 and using logic processing to calculate and display results.
 
-Project Setup:
+## Project Setup:
   
   Installation requirements: Git
        
@@ -22,11 +22,12 @@ Project Setup:
        3. Run the program:
            Run the JavaScript code from challenge1.js/challenge2.js/challenge3.js file in the browser                  console
 
-1.Student Grade Generator (Toy Problem)
+# 1.Student Grade Generator (Toy Problem)
   
-  Description: The Grading Program first allows a user to input the number of subjects necessary, then the user
-    inputs the student marks (between 0 and 100) for each of the subjects. The program then calculates the correct 
-    grade based on the following rules:
+   Description: 
+     The Grading Program first allows a user to input the number of subjects necessary, then the user
+     inputs the student marks (between 0 and 100) for each of the subjects. The program then calculates the correct 
+     grade based on the following rules:
        
        I.  A: Marks > 79
        II. B: Marks between 60 and 79
@@ -39,7 +40,7 @@ Project Setup:
         The program will prompt you for the number of subjects, then for each subject’s marks. It will  
         output the grade for each subject and the overall mean grade.
     
-2. Speed Detector (Toy Problem)
+# 2. Speed Detector (Toy Problem)
 
    Description:
         The SpeedCheck Program calculates whether a driver is speeding. It takes the input of the car's             speed and evaluates the following:
@@ -53,7 +54,7 @@ Project Setup:
           If the speed input is 80 km/h, the program will output: Points: 2
           If the speed is greater than 130 km/h, it will print: License Suspended
 
-4. Net Salary Calculator
+# 4. Net Salary Calculator
 
    Description
 
